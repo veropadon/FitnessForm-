@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;globetales-exchanges/src/test/resources/insert-community.json&apos; to &apos;insert-communityAsset.json&apos;" description="Rename resource &apos;insert-community.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/resources/insert-community.json" name="insert-communityAsset.json" stamp="1700600543765" updateReferences="true"/>
-</session>
