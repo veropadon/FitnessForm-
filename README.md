@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What you need to install the software:
 - A modern web browser.
-- A code editor (like Visual Studio Code, Sublime Text, or Atom).
+- A code editor (like Visual Studio Code).
 
 ### Installing
 A step-by-step series of examples that tell you how to get a development environment running:
